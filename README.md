@@ -1,2 +1,2 @@
-# WhatsupDevelopment
-This repositary is to develop a chat app
+# software tester
+This repositary is to develop testing skill
