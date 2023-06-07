@@ -5,3 +5,4 @@ selenium ,maven, testng, java concepts
 github
 Get a job
 Writting and reading
+Learning is to reach the goal
