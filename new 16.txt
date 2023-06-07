@@ -4,3 +4,4 @@
 selenium ,maven, testng, java concepts
 github
 Get a job
+Writting and reading
